@@ -168,13 +168,6 @@ What the validation checks:
 
 ## 📹 Demo
 
-Record a short demo showing:
-- Enqueue (success & failure)
-- Start workers
-- Status/list
-- DLQ list + retry
-- Logs tailing (`tail -f ~/.queuectl/logs/<jobId>.log`)
-
-Upload to Drive and add the link here.
+Demo Video Link: https://drive.google.com/file/d/13K0Z1e_FBEfrQGR_JNNucEZalF7TRB6K/view?usp=sharing
 
 ---
