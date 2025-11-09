@@ -1,0 +1,11 @@
+node_modules
+*.log
+npm-debug.log*
+/coverage
+.DS_Store
+/.idea
+/.vscode
+.swp
+*.sqlite-journal
+*.db-journal
+logs/
